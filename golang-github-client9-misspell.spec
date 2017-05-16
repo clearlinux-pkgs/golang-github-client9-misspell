@@ -1,6 +1,6 @@
 Name     : golang-github-client9-misspell
 Version  : 940f19ff686fdd0ee8395209994d4e243cb81e37
-Release  : 2
+Release  : 3
 URL      : https://github.com/client9/misspell/archive/940f19ff686fdd0ee8395209994d4e243cb81e37.tar.gz
 Source0  : https://github.com/client9/misspell/archive/940f19ff686fdd0ee8395209994d4e243cb81e37.tar.gz
 Summary  : No detailed summary available
